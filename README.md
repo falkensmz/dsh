@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/falkensmz"><img src="https://i.ibb.co/tx35pZQ/DSH-banner.jpg" width=600 weigth=500 alt="smaze_stager"></a>
+  <a href="https://github.com/falkensmz"><img src="https://i.ibb.co/tx35pZQ/DSH-banner.jpg" width=600 weigth=500 alt="dsh"></a>
   <br>
   smaze_stager
   <br>
