@@ -5,10 +5,7 @@ from googlesearch import search
 
 
 try:
-    if platform == 'win32':
-        system("cls")
-    if platform == "linux" or platform == "linux2" or platform == "darwin":
-        system("clear")
+    os.system("cls||clear") #Works on linux and windows.
     print("")
     print(colored(r''' ________   __      ________  ______    ______     _______   ________                                                                     
     |"      "\ |" \    /"       )/" _  "\  /    " \   /"      \ |"      "\                                                                    
